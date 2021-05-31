@@ -1,0 +1,24 @@
+---
+# Do not execute the module with knochout prefix that would otherwise be included by default.
+classes:
+  - '--::mysql::server'
+  - '--::migration_common::exec'
+
+# Enable CORS
+# Attention: This '*' allows all hosts. Limit to hosts that should be allowed only!
+abis::cors_allowed_origins: '*'
+abis::db_jdbc_url: 'jdbc:oracle:thin:@(DESCRIPTION_LIST=(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=dbhost)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=theservicename))))'
+abis::db_variant: 'oracle'
+
+biometric_store::service::db_variant: "%{hiera('abis::db_variant')}"
+biometric_store::service::db_jdbc_url: "%{hiera('abis::db_jdbc_url')}"
+biometric_store::service::db_username: 'BIOMETRICSTORE'
+biometric_store::service::db_pwd:
+
+web_abis::service::cors_allowed_origins: "%{hiera('abis::cors_allowed_origins')}"
+web_abis::service::db_variant: "%{hiera('abis::db_variant')}"
+web_abis::service::db_jdbc_url: "%{hiera('abis::db_jdbc_url')}"
+web_abis::service::db_username: 'WEBABIS'
+web_abis::service::db_pwd:
+
+web_abis_nist::service::cors_allowed_origins: "%{hiera('abis::cors_allowed_origins')}"
