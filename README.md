@@ -35,6 +35,49 @@ Apply changes with task `abis_tools::agent`
 
 ## Reconfigure the target node to use Oracle instead of MariaDB for data persistence
 
+### Prepare db schemata
+
+Example:
+
+```
+ALTER SYSTEM SET DB_CREATE_FILE_DEST = '/u01/app/oracle/oradata/ORCLCDB';
+create tablespace ABIS;
+create tablespace ABIS_IDX;
+create tablespace ABIS_LOB;
+
+-- USER SQL --
+CREATE USER "BIOMETRICSTORE" IDENTIFIED BY "biometricstore"
+    DEFAULT TABLESPACE "ABIS"
+    TEMPORARY TABLESPACE "TEMP";
+
+-- QUOTAS --
+ALTER USER "BIOMETRICSTORE" QUOTA UNLIMITED ON ABIS;
+ALTER USER "BIOMETRICSTORE" QUOTA UNLIMITED ON ABIS_IDX;
+ALTER USER "BIOMETRICSTORE" QUOTA UNLIMITED ON ABIS_LOB;
+
+-- ROLES AND PERMISSIONS --
+GRANT CREATE SESSION TO "BIOMETRICSTORE";
+GRANT "CONNECT" to "BIOMETRICSTORE";
+GRANT "RESOURCE" to "BIOMETRICSTORE";
+
+-- USER SQL --
+CREATE USER "WEBABIS" IDENTIFIED BY "webabis"
+    DEFAULT TABLESPACE "ABIS"
+    TEMPORARY TABLESPACE "TEMP";
+
+-- QUOTAS --
+ALTER USER "WEBABIS" QUOTA UNLIMITED ON ABIS;
+ALTER USER "WEBABIS" QUOTA UNLIMITED ON ABIS_IDX;
+ALTER USER "WEBABIS" QUOTA UNLIMITED ON ABIS_LOB;
+
+-- ROLES AND PERMISSIONS --
+GRANT CREATE SESSION TO "WEBABIS";
+GRANT "CONNECT" to "WEBABIS";
+GRANT "RESOURCE" to "WEBABIS";
+```
+
+### Adjust config and reapply
+
 - Merge origin/with_oracle into branch abis.
 - Adjust the access parameters and commit the modifications.
 - Apply the changes as in the previous chapter.
