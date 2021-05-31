@@ -21,6 +21,12 @@ Install ABIS Backend including WebABIS NIST Extension:
 bolt plan run abis_install::standalone role=<which one is it?> -t <target host> -u root
 ```
 
+### Check system state
+
+```
+bolt command run 'abis_systemcheck.sh' -t <target host> -u root
+```
+
 ## Reconfigure the target node to use the training license server
 
 Hint: Add missing parameter to the common.yaml and commit the change prior applying.
@@ -81,3 +87,15 @@ GRANT "RESOURCE" to "WEBABIS";
 - Merge origin/with_oracle into branch abis.
 - Adjust the access parameters and commit the modifications.
 - Apply the changes as in the previous chapter.
+
+## Reconfigure sizing for up to 10.000 records
+
+Add this to the common.yaml and reapply the changes.
+
+```
+# Assuming 800M total RAM for 10K records (face, tenprints, iris)
+# Assuming 4 cores with 2 threads
+abis_dispatcher::nr_of_galleries: 8
+# 100M per gallery
+abis_dispatcher::satellite_gallery_size: 100
+```
