@@ -1,0 +1,240 @@
+{
+  "record": [
+    {
+      "type": 1,
+      "field": [
+        {
+          "number": 2,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "0500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                },
+                {
+                  "content": "1"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "2"
+                },
+                {
+                  "content": "00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "AMN"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "20110706"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "DAI"
+                },
+                {
+                  "content": "WI Crime Information Bureau"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "ORI"
+                },
+                {
+                  "content": "OAN"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "TCN"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "TCR"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "00.00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "00.00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 13,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "DNM"
+                },
+                {
+                  "content": "DVN"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 14,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "20111105052500Z"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 15,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "0"
+                },
+                {
+                  "content": "ASCII"
+                },
+                {
+                  "content": "000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 16,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "APO"
+                },
+                {
+                  "content": "WI-AFIS"
+                },
+                {
+                  "content": "1.3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 2,
+      "field": [
+        {
+          "number": 2,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

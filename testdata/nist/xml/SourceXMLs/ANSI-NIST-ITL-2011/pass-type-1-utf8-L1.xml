@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itl:NISTBiometricInformationExchangePackage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://biometrics.nist.gov/standard/2011 XMLschemas_Updated/exchange/itl.xsd" xmlns:biom="http://niem.gov/niem/biometrics/1.0" xmlns:itl="http://biometrics.nist.gov/standard/2011" xmlns:ext="http://example.org/extension" xmlns:s="http://niem.gov/niem/structures/2.0" xmlns:nc="http://niem.gov/niem/niem-core/2.0" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<!-- ========================================================================================= -->
+	<!--   RECORD TYPE 01                                                                          -->
+	<!-- ========================================================================================= -->
+	<itl:PackageInformationRecord>
+		<!-- ====================================================== fieldID="1.001" == -->
+		<biom:RecordCategoryCode>1</biom:RecordCategoryCode>
+		<biom:Transaction>
+			<!-- ====================================================== fieldID="1.005" fieldMnemonic="DAT" == -->
+			<biom:TransactionDate>
+				<nc:Date>2011-07-06</nc:Date>
+			</biom:TransactionDate>
+			<biom:TransactionDestinationOrganization>
+				<!-- ====================================================== fieldID="1.007" fieldMnemonic="DAI" == -->
+				<nc:OrganizationIdentification>
+					<nc:IdentificationID>DAI</nc:IdentificationID>
+				</nc:OrganizationIdentification>
+				<!-- ====================================================== fieldID="1.017" fieldMnemonic="DAN" == -->
+				<nc:OrganizationName>WI Crime Information Bureau</nc:OrganizationName>
+			</biom:TransactionDestinationOrganization>
+			<biom:TransactionOriginatingOrganization>
+				<!-- ====================================================== fieldID="1.008" fieldMnemonic="ORI" == -->
+				<nc:OrganizationIdentification>
+					<nc:IdentificationID>ORI</nc:IdentificationID>
+				</nc:OrganizationIdentification>
+				<!-- ====================================================== fieldID="1.017" fieldMnemonic="OAN" == -->
+				<nc:OrganizationName>OAN</nc:OrganizationName>
+			</biom:TransactionOriginatingOrganization>
+			<!-- ====================================================== fieldID="1.014" fieldMnemonic="GMT" == -->
+			<biom:TransactionUTCDate>
+				<nc:DateTime>2011-11-05T05:25:00Z</nc:DateTime>
+			</biom:TransactionUTCDate>
+			<!-- ====================================================== fieldID="1.009" fieldMnemonic="TCN" == -->
+			<biom:TransactionControlIdentification>
+				<nc:IdentificationID>TCN</nc:IdentificationID>
+			</biom:TransactionControlIdentification>
+			<!-- ====================================================== fieldID="1.010" fieldMnemonic="TCR" == -->
+			<biom:TransactionControlReferenceIdentification>
+				<nc:IdentificationID>TCR</nc:IdentificationID>
+			</biom:TransactionControlReferenceIdentification>
+			<!-- ====================================================== fieldID="1.013" fieldMnemonic="DOM" == -->
+			<biom:TransactionDomain>
+				<!-- ====================================================== "DVN" == -->
+				<biom:DomainVersionNumberIdentification>
+					<nc:IdentificationID>DVN</nc:IdentificationID>
+				</biom:DomainVersionNumberIdentification>
+				<!-- ====================================================== "DNM" == -->
+				<biom:TransactionDomainName>DNM</biom:TransactionDomainName>
+			</biom:TransactionDomain>
+			<!-- ====================================================== fieldID="1.016" fieldMnemonic="APS" == -->
+			<biom:TransactionApplicationProfile>
+				<!-- ========================================================="APO" == -->
+				<biom:ApplicationProfileOrganizationName>APO</biom:ApplicationProfileOrganizationName>
+				<!-- ========================================================="APN" == -->
+				<biom:ApplicationProfileName>WI-AFIS</biom:ApplicationProfileName>
+				<!-- ========================================================="APV" == -->
+				<biom:ApplicationProfileVersionIdentification>
+					<nc:IdentificationID>1.3</nc:IdentificationID>
+				</biom:ApplicationProfileVersionIdentification>
+			</biom:TransactionApplicationProfile>
+			<biom:TransactionImageResolutionDetails>
+				<!-- ====================================================== fieldID="1.011" fieldMnemonic="NSR" == -->
+				<biom:NativeScanningResolutionValue>00.00</biom:NativeScanningResolutionValue>
+				<!-- ====================================================== fieldID="1.012" fieldMnemonic="NTR" == -->
+				<biom:NominalTransmittingResolutionValue>00.00</biom:NominalTransmittingResolutionValue>
+			</biom:TransactionImageResolutionDetails>
+			<!-- ====================================================== fieldID="1.002" fieldMnemonic="VER" == -->
+			<biom:TransactionMajorVersionValue>05</biom:TransactionMajorVersionValue>
+			<biom:TransactionMinorVersionValue>00</biom:TransactionMinorVersionValue>
+			<!-- ====================================================== fieldID="1.006" fieldMnemonic="PRY" == -->
+			<biom:TransactionPriorityValue>1</biom:TransactionPriorityValue>
+			<!-- ====================================================== fieldID="1.004" fieldMnemonic="TOT" == -->
+			<biom:TransactionCategoryCode>AMN</biom:TransactionCategoryCode>
+			<!-- ====================================================== fieldID="1.003" fieldMnemonic="CNT" == -->
+			<biom:TransactionContentSummary>
+				<!-- ========================================================="FRC" == -->
+				<biom:ContentFirstRecordCategoryCode>1</biom:ContentFirstRecordCategoryCode>
+				<!-- ========================================================="CRC" == -->
+				<biom:ContentRecordQuantity>1</biom:ContentRecordQuantity>
+				<!--     RECORD TYPE 02  User-defined descriptive detail-->
+				<biom:ContentRecordSummary>
+					<!-- ========================================================="IDC" == -->
+					<biom:ImageReferenceIdentification>
+						<nc:IdentificationID>0</nc:IdentificationID>
+					</biom:ImageReferenceIdentification>
+					<!-- ========================================================="REC" == -->
+					<biom:RecordCategoryCode>2</biom:RecordCategoryCode>
+				</biom:ContentRecordSummary>
+			</biom:TransactionContentSummary>
+			<!-- ====================================================== fieldID="1.015" fieldMnemonic="DCS" == -->
+			<biom:TransactionCharacterSetDirectory>
+				<!-- ========================================================="CSN" == -->
+				<biom:CharacterSetCommonNameCode>ASCII</biom:CharacterSetCommonNameCode>
+				<!-- ========================================================="CSI" == -->
+				<biom:CharacterSetIndexCode>0</biom:CharacterSetIndexCode>
+				<!-- ========================================================="CSV" == -->
+				<biom:CharacterSetVersionIdentification>
+					<nc:IdentificationID>000</nc:IdentificationID>
+				</biom:CharacterSetVersionIdentification>
+			</biom:TransactionCharacterSetDirectory>
+		</biom:Transaction>
+	</itl:PackageInformationRecord>
+	<!-- ========================================================================================= -->
+	<!--     RECORD TYPE 02                                                                        -->
+	<!-- ========================================================================================= -->
+	<itl:PackageDescriptiveTextRecord>
+		<!-- ====================================================== fieldID="2.001" ====================== -->
+		<biom:RecordCategoryCode>2</biom:RecordCategoryCode>
+		<!-- ====================================================== fieldID="2.002" fieldMnemonic="IDC" == -->
+		<biom:ImageReferenceIdentification>
+			<nc:IdentificationID>0</nc:IdentificationID>
+		</biom:ImageReferenceIdentification>
+	</itl:PackageDescriptiveTextRecord>
+</itl:NISTBiometricInformationExchangePackage>

@@ -1,0 +1,11 @@
+nist_feret_prepared_49040_0_1_44846.png.nist
+A synthetic NIST file containing Ferets image 49040_0_1_44846.png as type 10 record.
+
+nist_SonateqV3_prepared_33049_10_009_SONATEQ.png.nist
+A synthetic NIST file containing Sonateqs image 33049_10_009_SONATEQ.png as type 4 record.
+
+nist_THU_prepared_00039_23_008_35_l_8.png.nist
+A synthetic NIST file containing THUs image 00039_23_008_35_l_8.png as type 15 record.
+
+nist_unknownDB_prepared_type-9-10-14.an2
+A modified version of the original nist_unknownDB_type-9-10-14.an2 with an added field 7 in record 2 with the value: 'added ID field for tests'

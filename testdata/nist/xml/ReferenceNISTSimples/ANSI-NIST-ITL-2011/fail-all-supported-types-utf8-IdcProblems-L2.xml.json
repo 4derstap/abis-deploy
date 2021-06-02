@@ -1,0 +1,6187 @@
+{
+  "record": [
+    {
+      "type": 1,
+      "field": [
+        {
+          "number": 2,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "0500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                },
+                {
+                  "content": "13"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "4"
+                },
+                {
+                  "content": "01"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "10"
+                },
+                {
+                  "content": "01"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "10"
+                },
+                {
+                  "content": "02"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "13"
+                },
+                {
+                  "content": "03"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "13"
+                },
+                {
+                  "content": "04"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "13"
+                },
+                {
+                  "content": "05"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "13"
+                },
+                {
+                  "content": "06"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "13"
+                },
+                {
+                  "content": "08"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "14"
+                },
+                {
+                  "content": "07"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "14"
+                },
+                {
+                  "content": "08"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "14"
+                },
+                {
+                  "content": "09"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "15"
+                },
+                {
+                  "content": "09"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "17"
+                },
+                {
+                  "content": "10"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "AMN"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "20110706"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "DAI"
+                },
+                {
+                  "content": "WI Crime Information Bureau"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "ORI"
+                },
+                {
+                  "content": "OAN"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "TCN"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "TCR"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "19.69"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "19.69"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 13,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "DNM"
+                },
+                {
+                  "content": "DVN"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 14,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "20111105052500Z"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 15,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "0"
+                },
+                {
+                  "content": "ASCII"
+                },
+                {
+                  "content": "000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 16,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "APO"
+                },
+                {
+                  "content": "WI-AFIS"
+                },
+                {
+                  "content": "1.3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 4,
+      "field": [
+        {
+          "number": 1,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "2"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "80"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "65"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "binaryDataEmbed": {
+        "unencodedSize": "114",
+        "format": "wsq",
+        "content": "mrHbPdrko3u1s7ahtgPBjtmO1s85tfG2U7bpofY94Czu2SbY7d7wF9fQ7ZptgGrtkO2a2dsJ7wZbe8BlzvAmQ7xq+Y94GoHeEsR3ikWd4DIGhzmp3k42d4DRmzs94DKveDTB3hqw6PeBLrtpPep0H/+h"
+      }
+    },
+    {
+      "type": 10,
+      "field": [
+        {
+          "number": 2,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "FACE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "WI013415Y"
+                },
+                {
+                  "content": "WI Crime Information Bureau"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "19530423"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "80"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "65"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1200"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1200"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "JPEGB"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "YCC"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 13,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "20"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 14,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "H"
+                },
+                {
+                  "content": "85"
+                },
+                {
+                  "content": "115"
+                },
+                {
+                  "content": "188"
+                },
+                {
+                  "content": "55"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 15,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "P"
+                },
+                {
+                  "content": "4"
+                },
+                {
+                  "content": "100,15-150,15-150,85-100,85"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 16,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1200"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1200"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "Pincushion"
+                },
+                {
+                  "content": "E"
+                },
+                {
+                  "content": "Mild"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 19,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "F"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "H"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 20,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 21,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "45"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 23,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "VENDOR"
+                },
+                {
+                  "content": "Leica Summarit-S"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 24,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "100"
+                },
+                {
+                  "content": "FFF0"
+                },
+                {
+                  "content": "28495"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 25,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "0"
+                },
+                {
+                  "content": "45"
+                },
+                {
+                  "content": "0"
+                },
+                {
+                  "content": "0"
+                },
+                {
+                  "content": "35"
+                },
+                {
+                  "content": "90"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 26,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "MOUTH OPEN"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "TEETH VISIBLE"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "NO EAR"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 27,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "HAZ"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 28,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "BAL"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "GRN"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 29,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                },
+                {
+                  "content": "11.5"
+                },
+                {
+                  "content": "258"
+                },
+                {
+                  "content": "55"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "1"
+                },
+                {
+                  "content": "2.1"
+                },
+                {
+                  "content": "256"
+                },
+                {
+                  "content": "212"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 30,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "ASSISTED"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 31,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 32,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "2"
+                },
+                {
+                  "content": "sba"
+                },
+                {
+                  "content": "85"
+                },
+                {
+                  "content": "119"
+                },
+                {
+                  "content": "6"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "1"
+                },
+                {
+                  "content": "sba"
+                },
+                {
+                  "content": "115"
+                },
+                {
+                  "content": "85"
+                },
+                {
+                  "content": "6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 33,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "chin"
+                },
+                {
+                  "content": "3"
+                },
+                {
+                  "content": "225,313-425,300-625,313"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "eyetop"
+                },
+                {
+                  "content": "3"
+                },
+                {
+                  "content": "225,10-230,6-240,10"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 38,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "Comment"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 44,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "CROP"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "DOWNSAMPLE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 45,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "L"
+                },
+                {
+                  "content": "S"
+                },
+                {
+                  "content": "3"
+                },
+                {
+                  "content": "225,313-425,300-625,313"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "S"
+                },
+                {
+                  "content": "O"
+                },
+                {
+                  "content": "3"
+                },
+                {
+                  "content": "225,313-425,300-625,313"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 902,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "20111105052500Z"
+                },
+                {
+                  "content": "A process name"
+                },
+                {
+                  "content": "A process owner"
+                },
+                {
+                  "content": "A process description"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 903,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "P270NEIS67830000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 904,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "RGT88"
+                },
+                {
+                  "content": "PEARL"
+                },
+                {
+                  "content": "2838590029395784-4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 995,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                },
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 996,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "5108B86727517A02D8A28AEC62E67E05F9AE7E8913A773641D486841FDE8F941"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 997,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                },
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 998,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "20111105052500Z"
+                },
+                {
+                  "content": "42"
+                },
+                {
+                  "content": "51"
+                },
+                {
+                  "content": "48"
+                },
+                {
+                  "content": "76"
+                },
+                {
+                  "content": "59"
+                },
+                {
+                  "content": "24"
+                },
+                {
+                  "content": "159"
+                },
+                {
+                  "content": "WGS84"
+                },
+                {
+                  "content": "18T"
+                },
+                {
+                  "content": "337436"
+                },
+                {
+                  "content": "4747558"
+                },
+                {
+                  "content": "Corner of Washington and Madison, Geneva, NY"
+                },
+                {
+                  "content": "LANDMARK"
+                },
+                {
+                  "content": "Hydrant NW31"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "binaryDataEmbed": {
+        "unencodedSize": "114",
+        "format": "jpg",
+        "content": "mrHbPdrko3u1s7ahtgPBjtmO1s85tfG2U7bpofY94Czu2SbY7d7wF9fQ7ZptgGrtkO2a2dsJ7wZbe8BlzvAmQ7xq+Y94GoHeEsR3ikWd4DIGhzmp3k42d4DRmzs94DKveDTB3hqw6PeBLrtpPep0H/+h"
+      }
+    },
+    {
+      "type": 10,
+      "field": [
+        {
+          "number": 2,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "TATTOO"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "WI013415Y"
+                },
+                {
+                  "content": "WI Crime Information Bureau"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "19530423"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "80"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "65"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1200"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1200"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "JPEGB"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "YCC"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 16,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 38,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "Comment"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 39,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 40,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "TAT L TOE"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "TAT FARM"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 41,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "112"
+                },
+                {
+                  "content": "15"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 42,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "TATTOO"
+                },
+                {
+                  "content": "ANIMAL"
+                },
+                {
+                  "content": "DOG"
+                },
+                {
+                  "content": "Golden retriever with an overbite"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "TATTOO"
+                },
+                {
+                  "content": "HUMAN"
+                },
+                {
+                  "content": "MBPART"
+                },
+                {
+                  "content": "Fist"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 43,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "ORANGE"
+                },
+                {
+                  "content": "BLACK"
+                },
+                {
+                  "content": "RED"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "YELLOW"
+                },
+                {
+                  "content": "MULTI"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 44,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "CROP"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "DOWNSAMPLE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 902,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "20111105052500Z"
+                },
+                {
+                  "content": "A process name"
+                },
+                {
+                  "content": "A process owner"
+                },
+                {
+                  "content": "A process description"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 903,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "P270NEIS67830000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 904,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "RGT88"
+                },
+                {
+                  "content": "PEARL"
+                },
+                {
+                  "content": "2838590029395784-4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 995,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                },
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 996,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "5108B86727517A02D8A28AEC62E67E05F9AE7E8913A773641D486841FDE8F941"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 997,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                },
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 998,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "20111105052500Z"
+                },
+                {
+                  "content": "42"
+                },
+                {
+                  "content": "51"
+                },
+                {
+                  "content": "48"
+                },
+                {
+                  "content": "76"
+                },
+                {
+                  "content": "59"
+                },
+                {
+                  "content": "24"
+                },
+                {
+                  "content": "159"
+                },
+                {
+                  "content": "WGS84"
+                },
+                {
+                  "content": "18T"
+                },
+                {
+                  "content": "337436"
+                },
+                {
+                  "content": "4747558"
+                },
+                {
+                  "content": "Corner of Washington and Madison, Geneva, NY"
+                },
+                {
+                  "content": "LANDMARK"
+                },
+                {
+                  "content": "Hydrant NW31"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "binaryDataEmbed": {
+        "unencodedSize": "114",
+        "format": "jpg",
+        "content": "mrHbPdrko3u1s7ahtgPBjtmO1s85tfG2U7bpofY94Czu2SbY7d7wF9fQ7ZptgGrtkO2a2dsJ7wZbe8BlzvAmQ7xq+Y94GoHeEsR3ikWd4DIGhzmp3k42d4DRmzs94DKveDTB3hqw6PeBLrtpPep0H/+h"
+      }
+    },
+    {
+      "type": 13,
+      "field": [
+        {
+          "number": 2,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "WI013415Y"
+                },
+                {
+                  "content": "WI Crime Information Bureau"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "19530423"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "80"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "65"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1200"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1200"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "JPEGL"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 13,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "4"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 16,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 20,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "Comment"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 24,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "4"
+                },
+                {
+                  "content": "100"
+                },
+                {
+                  "content": "FFF0"
+                },
+                {
+                  "content": "28495"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 902,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "20111105052500Z"
+                },
+                {
+                  "content": "A process name"
+                },
+                {
+                  "content": "A process owner"
+                },
+                {
+                  "content": "A process description"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 903,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "P270NEIS67830000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 904,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "RGT88"
+                },
+                {
+                  "content": "PEARL"
+                },
+                {
+                  "content": "2838590029395784-4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 995,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                },
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 996,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "5108B86727517A02D8A28AEC62E67E05F9AE7E8913A773641D486841FDE8F941"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 997,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                },
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 998,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "20111105052500Z"
+                },
+                {
+                  "content": "42"
+                },
+                {
+                  "content": "51"
+                },
+                {
+                  "content": "48"
+                },
+                {
+                  "content": "76"
+                },
+                {
+                  "content": "59"
+                },
+                {
+                  "content": "24"
+                },
+                {
+                  "content": "159"
+                },
+                {
+                  "content": "WGS84"
+                },
+                {
+                  "content": "18T"
+                },
+                {
+                  "content": "337436"
+                },
+                {
+                  "content": "4747558"
+                },
+                {
+                  "content": "Corner of Washington and Madison, Geneva, NY"
+                },
+                {
+                  "content": "LANDMARK"
+                },
+                {
+                  "content": "Hydrant NW31"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "binaryDataEmbed": {
+        "unencodedSize": "114",
+        "format": "jpgl",
+        "content": "mrHbPdrko3u1s7ahtgPBjtmO1s85tfG2U7bpofY94Czu2SbY7d7wF9fQ7ZptgGrtkO2a2dsJ7wZbe8BlzvAmQ7xq+Y94GoHeEsR3ikWd4DIGhzmp3k42d4DRmzs94DKveDTB3hqw6PeBLrtpPep0H/+h"
+      }
+    },
+    {
+      "type": 13,
+      "field": [
+        {
+          "number": 2,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "12"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "WI013415Y"
+                },
+                {
+                  "content": "WI Crime Information Bureau"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "19530423"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "80"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "65"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1200"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1200"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 13,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "29"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "23"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 16,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 20,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "Comment"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 24,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "29"
+                },
+                {
+                  "content": "100"
+                },
+                {
+                  "content": "FFF0"
+                },
+                {
+                  "content": "28495"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 902,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "20111105052500Z"
+                },
+                {
+                  "content": "A process name"
+                },
+                {
+                  "content": "A process owner"
+                },
+                {
+                  "content": "A process description"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 903,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "P270NEIS67830000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 904,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "RGT88"
+                },
+                {
+                  "content": "PEARL"
+                },
+                {
+                  "content": "2838590029395784-4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 995,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                },
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 996,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "5108B86727517A02D8A28AEC62E67E05F9AE7E8913A773641D486841FDE8F941"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 997,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                },
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 998,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "20111105052500Z"
+                },
+                {
+                  "content": "42"
+                },
+                {
+                  "content": "51"
+                },
+                {
+                  "content": "48"
+                },
+                {
+                  "content": "76"
+                },
+                {
+                  "content": "59"
+                },
+                {
+                  "content": "24"
+                },
+                {
+                  "content": "159"
+                },
+                {
+                  "content": "WGS84"
+                },
+                {
+                  "content": "18T"
+                },
+                {
+                  "content": "337436"
+                },
+                {
+                  "content": "4747558"
+                },
+                {
+                  "content": "Corner of Washington and Madison, Geneva, NY"
+                },
+                {
+                  "content": "LANDMARK"
+                },
+                {
+                  "content": "Hydrant NW31"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "binaryDataEmbed": {
+        "unencodedSize": "114",
+        "format": "png",
+        "content": "mrHbPdrko3u1s7ahtgPBjtmO1s85tfG2U7bpofY94Czu2SbY7d7wF9fQ7ZptgGrtkO2a2dsJ7wZbe8BlzvAmQ7xq+Y94GoHeEsR3ikWd4DIGhzmp3k42d4DRmzs94DKveDTB3hqw6PeBLrtpPep0H/+h"
+      }
+    },
+    {
+      "type": 13,
+      "field": [
+        {
+          "number": 2,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "WI013415Y"
+                },
+                {
+                  "content": "WI Crime Information Bureau"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "19530423"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "80"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "65"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1200"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1200"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "JP2L"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 13,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "19"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 14,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "8"
+                },
+                {
+                  "content": "EJI"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 15,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "FV1"
+                },
+                {
+                  "content": "DST"
+                },
+                {
+                  "content": "115"
+                },
+                {
+                  "content": "188"
+                },
+                {
+                  "content": "55"
+                },
+                {
+                  "content": "85"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "FV1"
+                },
+                {
+                  "content": "MED"
+                },
+                {
+                  "content": "115"
+                },
+                {
+                  "content": "188"
+                },
+                {
+                  "content": "92"
+                },
+                {
+                  "content": "126"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 16,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 20,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "Comment"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 24,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "19"
+                },
+                {
+                  "content": "100"
+                },
+                {
+                  "content": "FFF0"
+                },
+                {
+                  "content": "28495"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 902,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "20111105052500Z"
+                },
+                {
+                  "content": "A process name"
+                },
+                {
+                  "content": "A process owner"
+                },
+                {
+                  "content": "A process description"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 903,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "P270NEIS67830000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 904,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "RGT88"
+                },
+                {
+                  "content": "PEARL"
+                },
+                {
+                  "content": "2838590029395784-4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 995,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                },
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 996,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "5108B86727517A02D8A28AEC62E67E05F9AE7E8913A773641D486841FDE8F941"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 997,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                },
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 998,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "20111105052500Z"
+                },
+                {
+                  "content": "42"
+                },
+                {
+                  "content": "51"
+                },
+                {
+                  "content": "48"
+                },
+                {
+                  "content": "76"
+                },
+                {
+                  "content": "59"
+                },
+                {
+                  "content": "24"
+                },
+                {
+                  "content": "159"
+                },
+                {
+                  "content": "WGS84"
+                },
+                {
+                  "content": "18T"
+                },
+                {
+                  "content": "337436"
+                },
+                {
+                  "content": "4747558"
+                },
+                {
+                  "content": "Corner of Washington and Madison, Geneva, NY"
+                },
+                {
+                  "content": "LANDMARK"
+                },
+                {
+                  "content": "Hydrant NW31"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "binaryDataEmbed": {
+        "unencodedSize": "114",
+        "format": "jp2l",
+        "content": "mrHbPdrko3u1s7ahtgPBjtmO1s85tfG2U7bpofY94Czu2SbY7d7wF9fQ7ZptgGrtkO2a2dsJ7wZbe8BlzvAmQ7xq+Y94GoHeEsR3ikWd4DIGhzmp3k42d4DRmzs94DKveDTB3hqw6PeBLrtpPep0H/+h"
+      }
+    },
+    {
+      "type": 13,
+      "field": [
+        {
+          "number": 2,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "WI013415Y"
+                },
+                {
+                  "content": "WI Crime Information Bureau"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "19530423"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "80"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "65"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1200"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1200"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "JPEGL"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 13,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "60"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 16,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 20,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "Comment"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 24,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "60"
+                },
+                {
+                  "content": "100"
+                },
+                {
+                  "content": "FFF0"
+                },
+                {
+                  "content": "28495"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 902,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "20111105052500Z"
+                },
+                {
+                  "content": "A process name"
+                },
+                {
+                  "content": "A process owner"
+                },
+                {
+                  "content": "A process description"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 903,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "P270NEIS67830000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 904,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "RGT88"
+                },
+                {
+                  "content": "PEARL"
+                },
+                {
+                  "content": "2838590029395784-4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 995,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                },
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 996,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "5108B86727517A02D8A28AEC62E67E05F9AE7E8913A773641D486841FDE8F941"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 997,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                },
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 998,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "20111105052500Z"
+                },
+                {
+                  "content": "42"
+                },
+                {
+                  "content": "51"
+                },
+                {
+                  "content": "48"
+                },
+                {
+                  "content": "76"
+                },
+                {
+                  "content": "59"
+                },
+                {
+                  "content": "24"
+                },
+                {
+                  "content": "159"
+                },
+                {
+                  "content": "WGS84"
+                },
+                {
+                  "content": "18T"
+                },
+                {
+                  "content": "337436"
+                },
+                {
+                  "content": "4747558"
+                },
+                {
+                  "content": "Corner of Washington and Madison, Geneva, NY"
+                },
+                {
+                  "content": "LANDMARK"
+                },
+                {
+                  "content": "Hydrant NW31"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "binaryDataEmbed": {
+        "unencodedSize": "114",
+        "format": "jpgl",
+        "content": "mrHbPdrko3u1s7ahtgPBjtmO1s85tfG2U7bpofY94Czu2SbY7d7wF9fQ7ZptgGrtkO2a2dsJ7wZbe8BlzvAmQ7xq+Y94GoHeEsR3ikWd4DIGhzmp3k42d4DRmzs94DKveDTB3hqw6PeBLrtpPep0H/+h"
+      }
+    },
+    {
+      "type": 13,
+      "field": [
+        {
+          "number": 2,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "WI013415Y"
+                },
+                {
+                  "content": "WI Crime Information Bureau"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "19530423"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "80"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "65"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1200"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1200"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "JPEGL"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 13,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "10"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 14,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "0"
+                },
+                {
+                  "content": "EJI"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 15,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "FV1"
+                },
+                {
+                  "content": "DST"
+                },
+                {
+                  "content": "115"
+                },
+                {
+                  "content": "188"
+                },
+                {
+                  "content": "55"
+                },
+                {
+                  "content": "85"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "FV1"
+                },
+                {
+                  "content": "MED"
+                },
+                {
+                  "content": "115"
+                },
+                {
+                  "content": "188"
+                },
+                {
+                  "content": "92"
+                },
+                {
+                  "content": "126"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 16,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 20,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "Comment"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 24,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "19"
+                },
+                {
+                  "content": "100"
+                },
+                {
+                  "content": "FFF0"
+                },
+                {
+                  "content": "28495"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 902,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "20111105052500Z"
+                },
+                {
+                  "content": "A process name"
+                },
+                {
+                  "content": "A process owner"
+                },
+                {
+                  "content": "A process description"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 903,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "P270NEIS67830000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 904,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "RGT88"
+                },
+                {
+                  "content": "PEARL"
+                },
+                {
+                  "content": "2838590029395784-4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 995,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                },
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 996,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "5108B86727517A02D8A28AEC62E67E05F9AE7E8913A773641D486841FDE8F941"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 997,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                },
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 998,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "20111105052500Z"
+                },
+                {
+                  "content": "42"
+                },
+                {
+                  "content": "51"
+                },
+                {
+                  "content": "48"
+                },
+                {
+                  "content": "76"
+                },
+                {
+                  "content": "59"
+                },
+                {
+                  "content": "24"
+                },
+                {
+                  "content": "159"
+                },
+                {
+                  "content": "WGS84"
+                },
+                {
+                  "content": "18T"
+                },
+                {
+                  "content": "337436"
+                },
+                {
+                  "content": "4747558"
+                },
+                {
+                  "content": "Corner of Washington and Madison, Geneva, NY"
+                },
+                {
+                  "content": "LANDMARK"
+                },
+                {
+                  "content": "Hydrant NW31"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "binaryDataEmbed": {
+        "unencodedSize": "114",
+        "format": "jpgl",
+        "content": "mrHbPdrko3u1s7ahtgPBjtmO1s85tfG2U7bpofY94Czu2SbY7d7wF9fQ7ZptgGrtkO2a2dsJ7wZbe8BlzvAmQ7xq+Y94GoHeEsR3ikWd4DIGhzmp3k42d4DRmzs94DKveDTB3hqw6PeBLrtpPep0H/+h"
+      }
+    },
+    {
+      "type": 14,
+      "field": [
+        {
+          "number": 2,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "WI013415Y"
+                },
+                {
+                  "content": "WI Crime Information Bureau"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "19530423"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "80"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "65"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1200"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1200"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "JPEGB"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 13,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "11"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 16,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 20,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "Comment"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 22,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "8"
+                },
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 24,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "8"
+                },
+                {
+                  "content": "100"
+                },
+                {
+                  "content": "FFF0"
+                },
+                {
+                  "content": "28495"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 26,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "123"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 30,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "ASSISTED"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 31,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "20"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 902,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "20111105052500Z"
+                },
+                {
+                  "content": "A process name"
+                },
+                {
+                  "content": "A process owner"
+                },
+                {
+                  "content": "A process description"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 903,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "P270NEIS67830000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 904,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "RGT88"
+                },
+                {
+                  "content": "PEARL"
+                },
+                {
+                  "content": "2838590029395784-4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 995,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                },
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 996,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "5108B86727517A02D8A28AEC62E67E05F9AE7E8913A773641D486841FDE8F941"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 997,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                },
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 998,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "20111105052500Z"
+                },
+                {
+                  "content": "42"
+                },
+                {
+                  "content": "51"
+                },
+                {
+                  "content": "48"
+                },
+                {
+                  "content": "76"
+                },
+                {
+                  "content": "59"
+                },
+                {
+                  "content": "24"
+                },
+                {
+                  "content": "159"
+                },
+                {
+                  "content": "WGS84"
+                },
+                {
+                  "content": "18T"
+                },
+                {
+                  "content": "337436"
+                },
+                {
+                  "content": "4747558"
+                },
+                {
+                  "content": "Corner of Washington and Madison, Geneva, NY"
+                },
+                {
+                  "content": "LANDMARK"
+                },
+                {
+                  "content": "Hydrant NW31"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "binaryDataEmbed": {
+        "unencodedSize": "114",
+        "format": "jpg",
+        "content": "mrHbPdrko3u1s7ahtgPBjtmO1s85tfG2U7bpofY94Czu2SbY7d7wF9fQ7ZptgGrtkO2a2dsJ7wZbe8BlzvAmQ7xq+Y94GoHeEsR3ikWd4DIGhzmp3k42d4DRmzs94DKveDTB3hqw6PeBLrtpPep0H/+h"
+      }
+    },
+    {
+      "type": 14,
+      "field": [
+        {
+          "number": 2,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "WI013415Y"
+                },
+                {
+                  "content": "WI Crime Information Bureau"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "19530423"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "80"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "65"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1200"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1200"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "JPEGB"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 13,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "14"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 16,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "10"
+                },
+                {
+                  "content": "XX"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "9"
+                },
+                {
+                  "content": "XX"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 20,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "Comment"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 21,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "8"
+                },
+                {
+                  "content": "100"
+                },
+                {
+                  "content": "150"
+                },
+                {
+                  "content": "15"
+                },
+                {
+                  "content": "85"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "7"
+                },
+                {
+                  "content": "160"
+                },
+                {
+                  "content": "200"
+                },
+                {
+                  "content": "15"
+                },
+                {
+                  "content": "85"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 22,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "8"
+                },
+                {
+                  "content": "1"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "7"
+                },
+                {
+                  "content": "1"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "7"
+                },
+                {
+                  "content": "1"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "7"
+                },
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 23,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "8"
+                },
+                {
+                  "content": "100"
+                },
+                {
+                  "content": "FFF0"
+                },
+                {
+                  "content": "28495"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "7"
+                },
+                {
+                  "content": "100"
+                },
+                {
+                  "content": "FFF0"
+                },
+                {
+                  "content": "28495"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 24,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "7"
+                },
+                {
+                  "content": "100"
+                },
+                {
+                  "content": "FFF0"
+                },
+                {
+                  "content": "28495"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "9"
+                },
+                {
+                  "content": "100"
+                },
+                {
+                  "content": "FFF0"
+                },
+                {
+                  "content": "28495"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 25,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "8"
+                },
+                {
+                  "content": "4"
+                },
+                {
+                  "content": "100"
+                },
+                {
+                  "content": "15"
+                },
+                {
+                  "content": "150"
+                },
+                {
+                  "content": "15"
+                },
+                {
+                  "content": "150"
+                },
+                {
+                  "content": "85"
+                },
+                {
+                  "content": "100"
+                },
+                {
+                  "content": "85"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "7"
+                },
+                {
+                  "content": "4"
+                },
+                {
+                  "content": "160"
+                },
+                {
+                  "content": "15"
+                },
+                {
+                  "content": "200"
+                },
+                {
+                  "content": "15"
+                },
+                {
+                  "content": "200"
+                },
+                {
+                  "content": "85"
+                },
+                {
+                  "content": "160"
+                },
+                {
+                  "content": "85"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 26,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "123"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 27,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "Y"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 30,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "ASSISTED"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 31,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "20"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 902,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "20111105052500Z"
+                },
+                {
+                  "content": "A process name"
+                },
+                {
+                  "content": "A process owner"
+                },
+                {
+                  "content": "A process description"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 903,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "P270NEIS67830000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 904,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "RGT88"
+                },
+                {
+                  "content": "PEARL"
+                },
+                {
+                  "content": "2838590029395784-4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 995,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                },
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 996,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "5108B86727517A02D8A28AEC62E67E05F9AE7E8913A773641D486841FDE8F941"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 997,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                },
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 998,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "20111105052500Z"
+                },
+                {
+                  "content": "42"
+                },
+                {
+                  "content": "51"
+                },
+                {
+                  "content": "48"
+                },
+                {
+                  "content": "76"
+                },
+                {
+                  "content": "59"
+                },
+                {
+                  "content": "24"
+                },
+                {
+                  "content": "159"
+                },
+                {
+                  "content": "WGS84"
+                },
+                {
+                  "content": "18T"
+                },
+                {
+                  "content": "337436"
+                },
+                {
+                  "content": "4747558"
+                },
+                {
+                  "content": "Corner of Washington and Madison, Geneva, NY"
+                },
+                {
+                  "content": "LANDMARK"
+                },
+                {
+                  "content": "Hydrant NW31"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "binaryDataEmbed": {
+        "unencodedSize": "114",
+        "format": "jpg",
+        "content": "mrHbPdrko3u1s7ahtgPBjtmO1s85tfG2U7bpofY94Czu2SbY7d7wF9fQ7ZptgGrtkO2a2dsJ7wZbe8BlzvAmQ7xq+Y94GoHeEsR3ikWd4DIGhzmp3k42d4DRmzs94DKveDTB3hqw6PeBLrtpPep0H/+h"
+      }
+    },
+    {
+      "type": 14,
+      "field": [
+        {
+          "number": 2,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "9"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "WI013415Y"
+                },
+                {
+                  "content": "WI Crime Information Bureau"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "19530423"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "85"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "65"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1200"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1200"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "JPEGB"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 13,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "19"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 14,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "8"
+                },
+                {
+                  "content": "EJI"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 15,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "FV1"
+                },
+                {
+                  "content": "DST"
+                },
+                {
+                  "content": "115"
+                },
+                {
+                  "content": "188"
+                },
+                {
+                  "content": "55"
+                },
+                {
+                  "content": "85"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "FV1"
+                },
+                {
+                  "content": "MED"
+                },
+                {
+                  "content": "115"
+                },
+                {
+                  "content": "188"
+                },
+                {
+                  "content": "92"
+                },
+                {
+                  "content": "126"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 16,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 20,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "Comment"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 22,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "8"
+                },
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 24,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "8"
+                },
+                {
+                  "content": "100"
+                },
+                {
+                  "content": "FFF0"
+                },
+                {
+                  "content": "28495"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 26,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "123"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 30,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "ASSISTED"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 31,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "20"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 902,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "20111105052500Z"
+                },
+                {
+                  "content": "A process name"
+                },
+                {
+                  "content": "A process owner"
+                },
+                {
+                  "content": "A process description"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 903,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "P270NEIS67830000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 904,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "RGT88"
+                },
+                {
+                  "content": "PEARL"
+                },
+                {
+                  "content": "2838590029395784-4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 995,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                },
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 996,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "5108B86727517A02D8A28AEC62E67E05F9AE7E8913A773641D486841FDE8F941"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 997,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                },
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 998,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "20111105052500Z"
+                },
+                {
+                  "content": "42"
+                },
+                {
+                  "content": "51"
+                },
+                {
+                  "content": "48"
+                },
+                {
+                  "content": "76"
+                },
+                {
+                  "content": "59"
+                },
+                {
+                  "content": "24"
+                },
+                {
+                  "content": "159"
+                },
+                {
+                  "content": "WGS84"
+                },
+                {
+                  "content": "18T"
+                },
+                {
+                  "content": "337436"
+                },
+                {
+                  "content": "4747558"
+                },
+                {
+                  "content": "Corner of Washington and Madison, Geneva, NY"
+                },
+                {
+                  "content": "LANDMARK"
+                },
+                {
+                  "content": "Hydrant NW31"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "binaryDataEmbed": {
+        "unencodedSize": "114",
+        "format": "jpg",
+        "content": "mrHbPdrko3u1s7ahtgPBjtmO1s85tfG2U7bpofY94Czu2SbY7d7wF9fQ7ZptgGrtkO2a2dsJ7wZbe8BlzvAmQ7xq+Y94GoHeEsR3ikWd4DIGhzmp3k42d4DRmzs94DKveDTB3hqw6PeBLrtpPep0H/+h"
+      }
+    },
+    {
+      "type": 15,
+      "field": [
+        {
+          "number": 2,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "9"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "10"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "WI013415Y"
+                },
+                {
+                  "content": "WI Crime Information Bureau"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "19530423"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "80"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "65"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1200"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1200"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "JPEGB"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 13,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "28"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 16,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "28"
+                },
+                {
+                  "content": "XX"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 20,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "Comment"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 24,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "28"
+                },
+                {
+                  "content": "100"
+                },
+                {
+                  "content": "FFF0"
+                },
+                {
+                  "content": "28495"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 30,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "ASSISTED"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 902,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "20111105052500Z"
+                },
+                {
+                  "content": "A process name"
+                },
+                {
+                  "content": "A process owner"
+                },
+                {
+                  "content": "A process description"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 903,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "P270NEIS67830000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 904,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "RGT88"
+                },
+                {
+                  "content": "PEARL"
+                },
+                {
+                  "content": "2838590029395784-4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 995,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                },
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 996,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "5108B86727517A02D8A28AEC62E67E05F9AE7E8913A773641D486841FDE8F941"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 997,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                },
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 998,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "20111105052500Z"
+                },
+                {
+                  "content": "42"
+                },
+                {
+                  "content": "51"
+                },
+                {
+                  "content": "48"
+                },
+                {
+                  "content": "76"
+                },
+                {
+                  "content": "59"
+                },
+                {
+                  "content": "24"
+                },
+                {
+                  "content": "159"
+                },
+                {
+                  "content": "WGS84"
+                },
+                {
+                  "content": "18T"
+                },
+                {
+                  "content": "337436"
+                },
+                {
+                  "content": "4747558"
+                },
+                {
+                  "content": "Corner of Washington and Madison, Geneva, NY"
+                },
+                {
+                  "content": "LANDMARK"
+                },
+                {
+                  "content": "Hydrant NW31"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "binaryDataEmbed": {
+        "unencodedSize": "114",
+        "format": "jpg",
+        "content": "mrHbPdrko3u1s7ahtgPBjtmO1s85tfG2U7bpofY94Czu2SbY7d7wF9fQ7ZptgGrtkO2a2dsJ7wZbe8BlzvAmQ7xq+Y94GoHeEsR3ikWd4DIGhzmp3k42d4DRmzs94DKveDTB3hqw6PeBLrtpPep0H/+h"
+      }
+    },
+    {
+      "type": 17,
+      "field": [
+        {
+          "number": 2,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "10"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "WI013415Y"
+                },
+                {
+                  "content": "WI Crime Information Bureau"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "19530423"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "80"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "65"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1200"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1200"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 13,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "YCC"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 14,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "8192"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 15,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "FFFF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 16,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "2"
+                },
+                {
+                  "content": "1"
+                },
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "P270NEIS67830000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 19,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "RGT88"
+                },
+                {
+                  "content": "PEARL"
+                },
+                {
+                  "content": "2838590029395784-4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 20,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "MUL"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 21,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "Comment"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 22,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 23,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "500"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 24,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "100"
+                },
+                {
+                  "content": "FFF0"
+                },
+                {
+                  "content": "28495"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 25,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "VIS"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 26,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "304"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 27,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "500"
+                },
+                {
+                  "content": "700"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 28,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "MA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 30,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "ASSISTED"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 31,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "20"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 32,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 33,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "P"
+                },
+                {
+                  "content": ""
+                },
+                {
+                  "content": "4"
+                },
+                {
+                  "content": "100,15-150,15-150,85-100,85"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 34,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "P"
+                },
+                {
+                  "content": ""
+                },
+                {
+                  "content": "4"
+                },
+                {
+                  "content": "100,15-150,15-150,85-100,85"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 35,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "P"
+                },
+                {
+                  "content": ""
+                },
+                {
+                  "content": "4"
+                },
+                {
+                  "content": "100,15-150,15-150,85-100,85"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 36,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "P"
+                },
+                {
+                  "content": ""
+                },
+                {
+                  "content": "4"
+                },
+                {
+                  "content": "100,15-150,15-150,85-100,85"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 37,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "L"
+                },
+                {
+                  "content": "O"
+                },
+                {
+                  "content": "3"
+                },
+                {
+                  "content": "225,313-425,300-625,313"
+                }
+              ]
+            },
+            {
+              "item": [
+                {
+                  "content": "S"
+                },
+                {
+                  "content": "O"
+                },
+                {
+                  "content": "3"
+                },
+                {
+                  "content": "225,313-425,300-625,313"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 40,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "600"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 41,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 902,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "20111105052500Z"
+                },
+                {
+                  "content": "A process name"
+                },
+                {
+                  "content": "A process owner"
+                },
+                {
+                  "content": "A process description"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 995,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                },
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 996,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "5108B86727517A02D8A28AEC62E67E05F9AE7E8913A773641D486841FDE8F941"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 997,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "1"
+                },
+                {
+                  "content": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 998,
+          "subfield": [
+            {
+              "item": [
+                {
+                  "content": "20111105052500Z"
+                },
+                {
+                  "content": "42"
+                },
+                {
+                  "content": "51"
+                },
+                {
+                  "content": "48"
+                },
+                {
+                  "content": "76"
+                },
+                {
+                  "content": "59"
+                },
+                {
+                  "content": "24"
+                },
+                {
+                  "content": "159"
+                },
+                {
+                  "content": "WGS84"
+                },
+                {
+                  "content": "18T"
+                },
+                {
+                  "content": "337436"
+                },
+                {
+                  "content": "4747558"
+                },
+                {
+                  "content": "Corner of Washington and Madison, Geneva, NY"
+                },
+                {
+                  "content": "LANDMARK"
+                },
+                {
+                  "content": "Hydrant NW31"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "binaryDataEmbed": {
+        "unencodedSize": "114",
+        "format": "png",
+        "content": "mrHbPdrko3u1s7ahtgPBjtmO1s85tfG2U7bpofY94Czu2SbY7d7wF9fQ7ZptgGrtkO2a2dsJ7wZbe8BlzvAmQ7xq+Y94GoHeEsR3ikWd4DIGhzmp3k42d4DRmzs94DKveDTB3hqw6PeBLrtpPep0H/+h"
+      }
+    }
+  ]
+}
