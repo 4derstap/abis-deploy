@@ -99,3 +99,104 @@ abis_dispatcher::nr_of_galleries: 8
 # 100M per gallery
 abis_dispatcher::satellite_gallery_size: 100
 ```
+
+## Git introduction
+
+[git - the simple guide](https://rogerdudler.github.io/git-guide/)
+https://www.atlassian.com/git/tutorials
+
+[Pro Git Buch](https://git-scm.com/book/en/v2)
+
+### Recommended settings
+
+### Global settings
+
+```
+git config --global user.name $(whoami)
+git config --global user.email "Your DERMALOG Mailaddress"
+git config --global pull.rebase true
+git config --global status.submodulesummary true
+git config --global fetch.recursesubmodules true
+git config --global tag.sort version:refname
+git config --global color.status auto
+git config --global color.branch auto
+git config --global color.ui auto
+git config --global remote.origin.prune true
+git config --global push.followTags true
+```
+
+### For Windows
+
+```
+git config --global core.autocrlf true
+```
+
+### Global .gitignore
+
+```
+cat << EOF > ~/.gitignore
+.cproject
+.project
+*.user
+.*.swp
+.settings
+.autotools
+build/
+*.orig
+*~
+.pydevproject
+compile_commands.json
+.idea/
+cmake-build-*/
+**/jmeter.log
+jmeter/out/*
+**/lextab.py
+**/yacctab.py
+*.srctrlbm
+*.srctrldb
+*.srctrlprj
+.vscode/
+*.iml
+target/
+EOF
+```
+
+```
+git config --global core.excludesfile ~/.gitignore .
+```
+
+### Best Practices
+
+#### Git Commit Message
+
+Put an empty line after the first line containing a short description of the content.
+
+```
+TICKET_ID: Add the summary in the first line.
+
+Add some more details about the changes in this commit after the empty line above.
+```
+
+[See Contributing to a project](https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project).
+
+#### Aliases für die Bash
+
+For Windows and for Linux you can maintain shortcut aliases for often used Git commands in your `~/.bashrc`:
+
+```
+# User specific aliases and functions
+alias st='git status'
+alias com='git commit'
+alias commit='git commit'
+alias addu='git add -u'
+alias add='git add'
+alias pr='git push origin HEAD:refs/for/master'
+alias pull='git pull; git submodule update --init --recursive'
+alias ame='git commit --amend'
+alias stash='git stash'
+alias review='git review'
+alias checkout='git checkout'
+alias co='git checkout'
+alias update='git submodule update --init --recursive'
+alias br='git branch'
+```
