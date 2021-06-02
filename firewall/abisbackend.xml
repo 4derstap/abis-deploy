@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>ABISBACKEND</short>
+  <description>DERMALOG ABIS Backend services</description>
+  <!-- ABIS Webservice -->
+  <port protocol="tcp" port="8080"/>
+  <!-- BiometricStore -->
+  <port protocol="tcp" port="8081"/>
+  <!-- ABIS Sync service -->
+  <port protocol="tcp" port="8087"/>
+  <!-- NIST Converter -->
+  <port protocol="tcp" port="8089"/>
+  <!-- WebABIS -->
+  <port protocol="tcp" port="10000"/>
+  <!-- WebABIS NIST Extension -->
+  <port protocol="tcp" port="10001"/>
+  <!-- ABIS Matching Dispatcher -->
+  <port protocol="tcp" port="5555"/>
+  <port protocol="tcp" port="6666"/>
+  <!-- ABIS Matching Satellite -->
+  <port protocol="tcp" port="5554"/>
+</service>
