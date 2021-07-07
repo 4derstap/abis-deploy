@@ -22,3 +22,5 @@ web_abis::service::db_username: 'WEBABIS'
 web_abis::service::db_pwd:
 
 web_abis_nist::service::cors_allowed_origins: "%{hiera('abis::cors_allowed_origins')}"
+web_abis_nist::service::palmprint_support: false
+web_abis_nist::service::face_support: false
